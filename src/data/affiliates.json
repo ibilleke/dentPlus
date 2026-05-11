@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "firstName": "María",
+    "lastName": "González",
+    "email": "maria.gonzalez@email.com",
+    "membershipType": "gold"
+  },
+  {
+    "id": 2,
+    "firstName": "Carlos",
+    "lastName": "Pérez",
+    "email": "carlos.perez@email.com",
+    "membershipType": "silver"
+  },
+  {
+    "id": 3,
+    "firstName": "Valentina",
+    "lastName": "Rojas",
+    "email": "valentina.rojas@email.com",
+    "membershipType": "platinum"
+  }
+]
